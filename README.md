@@ -6,8 +6,8 @@ Project github link:
 https://github.com/shahadot99999/kidSpark-academy
 
 
-live link:
-
+live website link:
+https://kidspark-academy.netlify.app/
 
 Features
 
